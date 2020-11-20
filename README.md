@@ -1,13 +1,13 @@
 # MessagePack
 
-MessagePack.pm6 は [MessagePack](http://msgpack.org/) の Perl 6 実装です。
+MessagePack は [MessagePack](http://msgpack.org/) の Raku 実装です。
 
-MessagePack.pm6 の作成にあたっては以下のライブラリを参考にしています：
+MessagePack の作成にあたっては以下のライブラリを参考にしています：
 
   - MessagePack-JS http://github.com/cuzic/MessagePack-JS
   - msgpack_pure   http://github.com/nayutaya/msgpack-pure
 
-MessagePack.pm6 is a Perl 6 implementation of
+MessagePack is a Raku implementation of
 [MessagePack](http://msgpack.org/).
 
 We refered to the following library when creating MessagePack.pm6:
@@ -29,13 +29,13 @@ Originally written by:
 
     - Tomoki Aonuma <uasi@99cm.org>
 
-Now maintained by the Perl6 Community.
+Now maintained by the Raku Community.
 
 ## Copyright
 
 2010-2011 Tomoki Aonuma <uasi@99cm.org>
 
-2014-2016 The Perl6 Community
+2014-2016 The Raku Community
 
 ## See also
 
