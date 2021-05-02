@@ -4,5 +4,9 @@
     "version"     : "*",
     "description" : "A MessagePack implementation",
     "depends"     : [],
-    "source-url"  : "git://github.com/raku-community-modules/MessagePack.git"
+    "source-url"  : "git://github.com/raku-community-modules/MessagePack.git",
+    "provides":  {
+	"MessagePack": "lib/MessagePack.pm6",
+	"MessagePack::Unpacker": "lib/MessagePack/Unpacker.pm6"
+    }
 }
